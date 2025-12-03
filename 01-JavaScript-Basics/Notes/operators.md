@@ -48,3 +48,8 @@ Operators are symbols that perform operations on values and variables.
 - `+` → Concatenates strings  
   ```js
   let name = "Ali" + " " + "Khan"; // "Ali Khan"
+
+
+## 6. Ternary (Conditional) Operator
+
+JavaScriptcondition ? valueIfTrue : valueIfFalse
