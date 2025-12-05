@@ -1,6 +1,5 @@
 
-✅ 📄 FILE 3: block-vs-non-block.md  
-```markdown
+
 # Blocking vs Non-Blocking Code in Node.js
 
 Node.js uses **non-blocking I/O** to stay fast and scalable.
